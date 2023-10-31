@@ -1,0 +1,53 @@
+informacion_personal:
+  nombre: Olena
+  direccion: calle Torremolinos 1, Moncofa
+  telefono: 643444444
+  correo: oleholl@alu.edu.gva.es
+
+resumen: |
+  Soy un apasionado desarrollador de software con experiencia en varios lenguajes de programación y tecnologías web.
+
+experiencia_laboral:
+  - puesto: Desarrollador de Software
+    empresa: Empresa A
+    periodo: Enero 2018 - Presente
+    descripcion: Desarrollo y mantenimiento de aplicaciones web.
+  - puesto: Analista de Datos
+    empresa: Empresa B
+    periodo: Junio 2015 - Diciembre 2017
+    descripcion: Análisis y visualización de datos para la toma de decisiones.
+
+educacion:
+  - titulo: Master en Finance
+    institucion: Universidad ZNTU, Ucrania
+    periodo: 2003 - 2008
+  - titulo: Licenciatura en DAW
+    institucion: IES BINIGASLO
+    periodo: 2023 - Presente
+
+habilidades:
+  - Java
+  - Python
+  - HTML/CSS
+  - JavaScript
+  - Git/GitHub
+  - SQL
+
+proyectos:
+  - nombre: Proyecto A
+    descripcion: Desarrollo de una aplicación web para gestión de tareas.
+  - nombre: Proyecto B
+    descripcion: Implementación de un sistema de recomendación utilizando algoritmos de machine learning.
+
+idiomas:
+  - idioma: Inglés
+    nivel: Avanzado
+  - idioma: Ucraniano
+    nivel: Nativo
+  - idioma: Ruso
+    nivel: Nativo
+
+certificaciones:
+  - certificacion: Certificado de B2 de Ingles
+    institucion: EOI Castellon
+    fecha: Septiembre 2023
